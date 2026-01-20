@@ -1,3 +1,7 @@
+/*Asterisk wildcard selector to override default styles added by browsers*/
+padding{0;}
+margin{0;}
+box-sizing{border-box;}
 /* Description: This CSS file styles the header, main content area, and footer of a webpage with different background colors. */
 header{background-color: lightcoral;}
 main{background-color: lightblue;}
